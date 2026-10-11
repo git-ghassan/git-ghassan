@@ -23,12 +23,12 @@ I'm an IT and infrastructure professional with **10+ years of experience** keepi
 
 | Area | Tools & Platforms |
 |---|---|
-| Endpoint Security & EDR | Xcitium |
+| Endpoint Security & EDR | Xcitium, Kaspersky, Symantec |
 | Patch & Remote Management | Action1, Xcitium ITSM |
 | Data Loss Prevention | Zecurion DLP |
 | Mobile Security | SyncDog |
 | Backup & Recovery | Veeam Backup |
-| Networking & Infrastructure | LAN/WAN, firewalls, servers, user support |
+| Networking & Infrastructure | CISCO & PFsense, LAN/WAN, firewalls, servers, user support |
 | Web | Website development, HTML/CSS/JS |
 
 ---
